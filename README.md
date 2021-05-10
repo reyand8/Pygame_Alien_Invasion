@@ -15,4 +15,4 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 
 # Pictures
 
-![alt text] (github.com/AndrewwwG/Pygame-Alien-Invasion/blob/main/screenshots/1%20(2).png) 
+![alt text](https://github.com/AndrewwwG/Pygame-Alien-Invasion/blob/main/screenshots/1%20(2).png) 
