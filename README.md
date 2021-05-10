@@ -7,8 +7,8 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 
 # My Improvements
 
-1. Hight-score button 
-2. Instructions button
-3. New title screen in the menu
+1. Hight-score button (with additional features)
+2. Instructions button (with additional features)
+3. New title screen in the menu (with additional features)
 
    
